@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <math.h>
+
+int main()
+{
+char seq[1000];
+int i,N;
+
+i,N=0;
+printf("Please enter protein sequence:\n");
+while(scanf("%s",seq)==1)
+	{
+	seq[i]=N
+	
+i++
+	}
+
+
+
+printf("The total charge is %d\n", N[i]);
+
+}
